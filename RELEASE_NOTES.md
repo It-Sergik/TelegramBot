@@ -8,3 +8,6 @@
 # 0.2.0
 
 * implemented Command pattern for handling Telegram Bot commands
+
+## 0.3.0 
+* JRTB-13: added deployment process to the project
